@@ -1,0 +1,149 @@
+.page{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(51, 160, 24);
+}
+.navbar{
+   text-indent: 10px;
+   
+}
+.nav{
+    position:relative;
+    top:20px;
+    left:250px;
+    color: brown;
+
+}
+.contactme{
+    position: absolute;
+    top:500px;
+    left:1200px;
+    color: brown;
+    font-size: larger;
+    border: 1px solid brown;
+    padding-left:10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.myname{
+    position:absolute;
+    top:200px;
+    padding-left: 25px;
+
+}
+.enquiry{
+    position:absolute;
+    top:450px;
+    left:10px;
+    opacity: 0.5;
+    
+}
+.enquiry:hover{
+    border: 3px solid rgb(66, 70, 47);
+    border-radius: 10%;
+}
+.card-head{
+    text-align: center;
+    font-weight: 500;
+    font-size: large;
+}
+.abc:hover{
+    background-color: rgb(63, 61, 46);
+}
+.card:hover{
+    background-color: rgb(123, 123, 163);
+}
+.nav1{
+    position: absolute;
+    top:10px;
+    left: 600px;
+    opacity: 0.6;
+    color: brown;
+}
+.courses{
+    position: absolute;
+    top: 150px;
+    left:500px;
+}
+.float{
+    opacity: 0.8;
+}
+hr.dotted{
+    position: absolute;
+    border-top: 5px dotted red;
+    
+}
+.courses{
+    font-family: monospace;
+}
+.skilling{
+    padding-top: 70px;
+    padding-right: 30px;
+    scroll-padding-top: 20px;
+    height: 800px;
+    background-color:wheat;
+    position:absolute;
+    top: 0px;
+    left:50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 5px 5px 5px;
+    font-size:xx-large;
+    list-style: none !important;
+    
+
+}
+li.sidebar{
+    list-style: none;
+    padding-top: 20px;
+    border: 1px dotted rgb(177, 156, 156);
+    opacity: 0.8;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.intrdo{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+.projecting{
+    position: absolute;
+    top: 70px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+.dis1{
+    display: none;
+        position: absolute;
+        background-color: red;
+        min-width: 150px;
+        box-shadow: 2px 2px 2px 2px;
+
+}
+.col-data1:hover .dis1{
+    display:block;
+    font-family: monospace;
+}
+.col{
+    padding-top: 40px;
+}
+.row-head{
+    text-align: center;
+}
+
+#blogs{
+    opacity: 0.7;
+}
+.container{
+    position: absolute;
+    top:50px;
+    
+}
+.row{
+    padding-left: 170px;
+}
+
+.progress{
+    border: 2px solid green;
+}
